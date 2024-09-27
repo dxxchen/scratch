@@ -1,0 +1,103 @@
+name,library_system,latitude,longitude,address,city,zip_code,county,phone
+A. K. Smiley Public Library,A. K. Smiley Public Library,34.05408,-117.18396,125 W. Vine St.,Redlands,92373,San Bernardino,(909) 798-7565
+Beaumont Library District,Beaumont Library District,33.93201,-116.9811,125 E. Eighth St.,Beaumont,92223,Riverside,(951) 845-1357
+Colton Main Library,Colton Public Library,34.07177,-117.3212,656 N. 9Th St.,Colton,92324,San Bernardino,(909) 370-5189
+Luque Branch Library,Colton Public Library,34.05923,-117.32213,294 E. O St.,Colton,92324,San Bernardino,(909) 370-5182
+Corona Public Library,Corona Public Library,33.87499,-117.56804,650 South Main St.,Corona,92882,Riverside,(951) 736-2381
+Glendora Library & Cultural Center,Glendora Library & Cultural Center,34.13507,-117.86528,140 South Glendora Ave.,Glendora,91741,Los Angeles,(626) 852-4891
+Mission Viejo Library,Mission Viejo Library,33.59629,-117.65901,100 Civic Center,Mission Viejo,92691,Orange,(949) 830-7100
+Moreno Valley Public Library,Moreno Valley Public Library,33.91772,-117.21833,25480 Alessandro Blvd,Moreno Valley,92553,Riverside,(951) 413-3880
+Moreno Valley Mall Branch,Moreno Valley Public Library,33.93886,-117.27018,"22500 Town Circle, Ste 2078",Moreno Valley,92553,Riverside,(951) 413-3880
+Moreno Valley Iris Plaza Branch,Moreno Valley Public Library,33.8857,-117.2255,16170 Perris Blvd. Suite C3,Moreno Valley,92551,Riverside,(951) 413-3760
+Balboa Library,Newport Beach Public Library,33.60417,-117.90609,100 E. Balboa Blvd.,Newport Beach,92661,Orange,(949) 644-3076
+Central Library,Newport Beach Public Library,33.60761,-117.87299,1000 Avocado Ave.,Newport Beach,92660,Orange,(949) 717-3800
+Corona Del Mar Library,Newport Beach Public Library,33.59601,-117.86953,410 Marigold Ave.,Corona Del Mar,92625,Orange,(949) 644-3075
+Crean Mariners Branch Library,Newport Beach Public Library,33.63265,-117.90362,1300 Irvine Avenue.,Newport Beach,92660,Orange,(949) 717-3838
+Lewis Family Branch,Ontario City Library,34.01835,-117.56867,3850 E. Riverside Drive,Ontario,91761,San Bernardino,(909) 395-2014
+Ovitt Family Community Library,Ontario City Library,34.06606,-117.64908,215 East C Street,Ontario,91764,San Bernardino,(909) 395-2004
+Aliso Viejo Branch Library,Orange County Public Libraries,33.57006,-117.7268,1 Journey,Aliso Viejo,92656,Orange,(949) 360-1730
+Brea Branch Library,Orange County Public Libraries,33.91707,-117.88892,1 Civic Center Circle,Brea,92821,Orange,(714) 671-1722
+Costa Mesa Branch Library,Orange County Public Libraries,33.64189,-117.9222,1855 Park Ave.,Costa Mesa,92627,Orange,(949) 646-8845
+Cypress Branch Library,Orange County Public Libraries,33.82483,-118.03938,5331 Orange Ave.,Cypress,90630,Orange,(714) 826-0350
+Dana Point Branch Library,Orange County Public Libraries,33.47694,-117.71603,33841 Niguel Road,Dana Point,92629,Orange,(949) 496-5517
+El Toro Branch Library,Orange County Public Libraries,33.61948,-117.69981,24672 Raymond Way,Lake Forest,92630,Orange,(949) 855-8173
+Foothill Ranch Branch Library,Orange County Public Libraries,33.6809,-117.65914,27002 Cabriole,Foothill Ranch,92610,Orange,(949) 855-8072
+Fountain Valley Branch Library,Orange County Public Libraries,33.70706,-117.95117,17635 Los Alamos St.,Fountain Valley,92708,Orange,(714) 962-1324
+Chapman Branch Library,Orange County Public Libraries,33.78823,-117.97199,9182 Chapman Ave.,Garden Grove,92841,Orange,(714) 539-2115
+Garden Grove Main Library,Orange County Public Libraries,33.77736,-117.9373,11200 Stanford Ave.,Garden Grove,92840,Orange,(714) 530-0711
+Garden Grove Tibor Rubin Branch Library,Orange County Public Libraries,33.78883,-118.03201,11962 Bailey St.,Garden Grove,92845,Orange,(714) 897-2594
+Heritage Park Branch Library,Orange County Public Libraries,33.69957,-117.77843,14361 Yale Ave.,Irvine,92604,Orange,(949) 936-4040
+Katie Wheeler Branch Library,Orange County Public Libraries,33.72985,-117.7855,13019 Old Myford Rd.,Irvine,92602,Orange,(714) 669-8753
+La Habra Branch Library,Orange County Public Libraries,33.93258,-117.94421,221 E. La Habra Blvd.,La Habra,90631,Orange,(562) 694-0078
+La Palma Branch Library,Orange County Public Libraries,33.84863,-118.03677,7842 Walker St.,La Palma,90623,Orange,(714) 523-8585
+Ladera Ranch Branch Library,Orange County Public Libraries,33.5535,-117.63703,29551 Sienna Parkway,Ladera Ranch,92694,Orange,(949) 234-5940
+Laguna Beach Branch Library,Orange County Public Libraries,33.54209,-117.78248,363 Glenneyre St.,Laguna Beach,92651,Orange,(949) 497-1733
+Laguna Hills Technology Library,Orange County Public Libraries,33.59187,-117.70027,25555 Alicia Pkwy,Laguna Hills,92653,Orange,(949) 707-2699
+Laguna Niguel Branch Library,Orange County Public Libraries,33.52252,-117.71695,30341 Crown Valley Parkway,Laguna Niguel,92677,Orange,(949) 249-5252
+Laguna Woods Library,Orange County Public Libraries,33.61047,-117.72336,24264 El Toro Road,Laguna Woods,91637,Orange,(949) 639-0500
+Library Of The Canyons,Orange County Public Libraries,33.74346,-117.66764,7531 Santiago Canyon Rd.,Silverado,92676,Orange,(714) 649-2216
+Los Alamitos-Rossmoor Branch Library,Orange County Public Libraries,33.78085,-118.0755,12700 Montecito Rd.,Seal Beach,90740,Orange,(562) 430-1048
+Mesa Verde Branch Library,Orange County Public Libraries,33.6792,-117.92744,2969 Mesa Verde Drive East,Costa Mesa,92626,Orange,(714) 546-5274
+Rancho Santa Margarita Branch Library,Orange County Public Libraries,33.64062,-117.59241,30902 La Promesa,Rancho Santa Margari,92688,Orange,(949) 459-6094
+San Clemente Branch Library,Orange County Public Libraries,33.42473,-117.61713,242 Avenida Del Mar,San Clemente,92672,Orange,(949) 492-3493
+San Juan Capistrano Regional Library,Orange County Public Libraries,33.50526,-117.66333,31495 El Camino Real,San Juan Capistrano,92675,Orange,(949) 493-1752
+Mary Wilson Branch Library,Orange County Public Libraries,33.74365,-118.10483,707 Electric Ave.,Seal Beach,90740,Orange,(562) 431-3584
+Stanton Branch Library,Orange County Public Libraries,33.80257,-117.99578,7850 Katella Ave.,Stanton,90680,Orange,(714) 898-3302
+Tustin Branch Library,Orange County Public Libraries,33.74278,-117.82079,345 E. Main St.,Tustin,92780,Orange,(714) 544-7725
+University Park Branch Library,Orange County Public Libraries,33.66067,-117.82075,4512 Sandburg Way,Irvine,92612,Orange,(949) 786-4001
+Villa Park Branch Library,Orange County Public Libraries,33.81416,-117.8199,17865 Santiago Blvd.,Villa Park,92861,Orange,(714) 998-0861
+Westminster Branch Library,Orange County Public Libraries,33.7552,-117.98649,8180 13Th St.,Westminster,92683,Orange,(714) 893-5057
+El Modena Branch Library,Orange Public Library,33.78221,-117.80618,380 S. Hewes St.,Orange,92869,Orange,(714) 288-2451
+Orange Public Library & History Center,Orange Public Library,33.78825,-117.84955,407 E Chapman Ave,Orange,92866,Orange,(714) 288-2471
+Taft Branch Library,Orange Public Library,33.81552,-117.84575,740 E. Taft Ave.,Orange,92865,Orange,(714) 288-2430
+Placentia Library District,Placentia Library District,33.87153,-117.86091,411 E. Chapman Ave.,Placentia,92870,Orange,(714) 528-1925
+Pomona Public Library,Pomona Public Library,34.05386,-117.75062,625 S. Garey Ave.,Pomona,91766,Los Angeles,(909) 620-2473
+Paul A. Biane Library,Rancho Cucamonga Public Library,34.11307,-117.5328,12505 Cultural Center Drive,Rancho Cucamonga,91739,San Bernardino,(909) 477-2720
+Archibald Library,Rancho Cucamonga Public Library,34.12012,-117.59402,7368 Archibald Avenue,Rancho Cucamonga,91730,San Bernardino,(909) 477-2720
+Arlanza Branch,Riverside Public Library,33.93926,-117.46231,8267 Philbin Ave.,Riverside,92503,Riverside,(951) 826-2217
+Arlington Branch Library,Riverside Public Library,33.91951,-117.44742,9556 Magnolia Ave.,Riverside,92503,Riverside,(951) 826-2291
+Casa Blanca Branch Library,Riverside Public Library,33.93036,-117.39979,2985 Madison St.,Riverside,92504,Riverside,(951) 826-2120
+Eastside Library & Cybrary,Riverside Public Library,33.97355,-117.34848,4033 Chicago St. Suite C,Riverside,92507,Riverside,(951) 826-2235
+La Sierra Branch Library,Riverside Public Library,33.9156,-117.48663,4600 La Sierra,Riverside,92505,Riverside,(951) 826-2461
+Marcy Branch Library,Riverside Public Library,33.948,-117.4008,6927 Magnolia Avenue,Riverside,92506,Riverside,(951) 826-2078
+Orange Terrace,Riverside Public Library,33.89509,-117.31261,20010-B Orange Terrace Pkwy,Riverside,92508,Riverside,(951) 826-2184
+Riverside Public Main Library,Riverside Public Library,33.98301,-117.37145,3900 Mission Inn Ave.,Riverside,92501,Riverside,(951) 826-5201
+Adelanto Branch Library,San Bernardino County Library,34.57856,-117.41464,11497 Bartlett,Adelanto,92301,San Bernardino,(760) 246-5661
+Newton T. Bass Apple Valley Branch Library,San Bernardino County Library,34.52438,-117.2152,14901 Dale Evans Parkway,Apple Valley,92307,San Bernardino,(760) 247-2022
+Barstow Branch Library,San Bernardino County Library,34.89527,-117.02428,304 E. Buena Vista,Barstow,92311,San Bernardino,(760) 256-4850
+Big Bear Lake Branch Library,San Bernardino County Library,34.24641,-116.88726,41930 Garstin Dr.,Big Bear Lake,92315,San Bernardino,(909) 866-5571
+Bloomington Branch Library,San Bernardino County Library,34.07087,-117.41101,18028 Valley Blvd,Bloomington,92316,San Bernardino,(909) 820-0533
+Cal Aero Preserve Academy Branch Library,San Bernardino County Library,33.96535,-117.62343,15850 Main Street,Chino,91708,San Bernardino,(909) 606-2173
+Carter Branch Library,San Bernardino County Library,34.14813,-117.40361,2630 N. Linden Avenue,Rialto,92377,San Bernardino,(909) 854-4100
+Chino Branch Library,San Bernardino County Library,34.01396,-117.68973,13180 Central Ave.,Chino,91710,San Bernardino,(909) 465-5280
+Chino Hills,San Bernardino County Library,33.99744,-117.73046,14020 City Center Drive,Chino Hills,91709,San Bernardino,(909) 590-5380
+Crestline Branch Library,San Bernardino County Library,34.24199,-117.27703,24105 Lake Gregory Dr.,Crestline,92325,San Bernardino,(909) 338-3294
+Fontana Lewis Library and Technology Center,San Bernardino County Library,34.1008,-117.43517,8437 Sierra Avenue,Fontana,92335,San Bernardino,(909) 574-4500
+Grand Terrace Branch Library,San Bernardino County Library,34.03517,-117.30697,22795 Barton Rd.,Grand Terrace,92313,San Bernardino,(909) 783-0147
+Hesperia Branch Library,San Bernardino County Library,34.42645,-117.31656,9650 Seventh Ave.,Hesperia,92345,San Bernardino,(760) 244-4898
+Highland Sam J. Racadio Library and Environmental Learning Center,San Bernardino County Library,34.11064,-117.21658,7863 Central Avenue,Highland,92346,San Bernardino,(909) 425-4700
+Joshua Tree Branch Library,San Bernardino County Library,34.1356,-116.31495,6465 Park Blvd.,Joshua Tree,92252,San Bernardino,(760) 366-8615
+Kaiser Branch Library,San Bernardino County Library,34.05063,-117.49252,11155 Almond Ave.,Fontana,92337,San Bernardino,(909) 357-5900
+Lake Arrowhead Branch Library,San Bernardino County Library,34.24641,-117.20923,27235 Highway 189,Blue Jay,92317,San Bernardino,(909) 337-3118
+Loma Linda Branch Library,San Bernardino County Library,34.04723,-117.24637,25581 Barton Road,Loma Linda,92354,San Bernardino,(909) 796-8621
+Janice Horst Lucerne Valley Branch Library,San Bernardino County Library,34.4436,-116.94111,33103 Old Woman Springs Rd.,Lucerne Valley,92356,San Bernardino,(760) 248-7521
+Mentone Senior Center and Library,San Bernardino County Library,34.07091,-117.13419,1331 Opal Avenue,Mentone,92359,San Bernardino,(909) 794-0327
+Montclair Branch Library,San Bernardino County Library,34.07282,-117.69326,9955 Fremont Ave.,Montclair,91763,San Bernardino,(909) 624-4671
+Muscoy Baker Family Learning Center,San Bernardino County Library,34.14732,-117.34038,2818 Macy Street,Muscoy,92407,San Bernardino,(909) 887-5167
+Needles Branch Library,San Bernardino County Library,34.83457,-114.61786,1111 Bailey,Needles,92363,San Bernardino,(760) 326-9255
+Phelan Memorial Library,San Bernardino County Library,34.42844,-117.57536,9800 Clovis Road,Phelan,92371,San Bernardino,(760) 868-3054
+Rialto Branch Library,San Bernardino County Library,34.10029,-117.374,251 W. First St.,Rialto,92376,San Bernardino,(909) 875-0144
+Running Springs Branch Library,San Bernardino County Library,34.20635,-117.10478,2677 Whispering Pines,Running Springs,92382,San Bernardino,(909) 867-2554
+Summit Branch Library,San Bernardino County Library,34.14826,-117.46441,15551 Summit Avenue,Fontana,92336,San Bernardino,(909) 357-5950
+Trona Branch Library,San Bernardino County Library,35.75773,-117.37875,82805 Mt. View St.,Trona,93562,San Bernardino,(760) 372-5847
+Twentynine Palms Branch Library,San Bernardino County Library,34.14339,-116.05473,6078 Adobe Rd.,Twentynine Palms,92277,San Bernardino,(760) 367-9519
+Wrightwood Branch Library,San Bernardino County Library,34.35973,-117.63504,6011 Pine Street,Wrightwood,92397,San Bernardino,(760) 249-4577
+Yucaipa Branch Library,San Bernardino County Library,34.03503,-117.05668,12040 Fifth St.,Yucaipa,92399,San Bernardino,(909) 790-3146
+Yucca Valley Branch Library,San Bernardino County Library,34.12258,-116.4182,57098 Twentynine Palms Hwy.,Yucca Valley,92284,San Bernardino,(760) 228-5455
+Dorothy Inghram Branch Library,San Bernardino Public Library,34.13543,-117.31858,1505 W. Highland Ave.,San Bernardino,92411,San Bernardino,(909) 887-4494
+Howard M. Rowe Branch Library,San Bernardino Public Library,34.14978,-117.28474,108 E. Marshall Blvd.,San Bernardino,92404,San Bernardino,(909) 883-3411
+Norman F. Feldheym Library,San Bernardino Public Library,34.10958,-117.2954,555 W. Sixth St.,San Bernardino,92410,San Bernardino,(909) 381-8201
+Paul Villasenor Branch Library,San Bernardino Public Library,34.10891,-117.31358,525 N. Mt. Vernon Ave.,San Bernardino,92411,San Bernardino,(909) 383-5156
+Upland Public Library,Upland Public Library,34.09881,-117.65031,450 N. Euclid Ave,Upland,91786,San Bernardino,(909) 931-4200
+Victorville City Library,Victorville City Library,34.52315,-117.30357,15011 Circle Drive,Victorville,92395,San Bernardino,(760) 245-4222
+Yorba Linda Public Library,Yorba Linda Public Library,33.89108,-117.81512,4852 Lakeview Ave.,Yorba Linda,92886,Orange,(714) 777-2873

@@ -1,0 +1,106 @@
+name,library_system,latitude,longitude,address,city,zip_code,county,phone
+Alpine County Library,Alpine County Library/Archives,38.69329,-119.7823,270 Laramie St.,Markleeville,96120,Alpine,(530) 694-2120
+Bear Valley Library Station,Alpine County Library/Archives,38.46581,-120.03883,367 Creekside Dr.,Bear Valley,95223,Alpine,(209) 753-6219
+Amador County Library,Amador County Library,38.35405,-120.77652,530 Sutter St.,Jackson,95642,Amador,(209) 223-6400
+Ione Branch Library,Amador County Library,38.35304,-120.93291,25 East Main St.,Ione,95640,Amador,(209) 274-2560
+Pine Grove Branch Library,Amador County Library,38.41344,-120.65778,19889 Hwy 88,Pine Grove,95665,Amador,(209) 296-3111
+Pioneer Branch Library,Amador County Library,38.44316,-120.55717,25070 Buckhorn Ridge Rd.,Pioneer,95666,Amador,(209) 295-7330
+Plymouth Branch,Amador County Library,38.4812,-120.8485,9375 Main St.,Plymouth,95669,Amador,(209) 245-6476
+Biggs Branch,Butte County Library,39.4135,-121.71032,464A B St.,Biggs,95917,Butte,(530) 552-5652
+Oroville Branch,Butte County Library,39.50647,-121.55279,1820 Mitchell Avenue,Oroville,95966,Butte,(530) 552-5652
+Chico Branch,Butte County Library,39.74383,-121.83411,1108 Sherman Avenue,Chico,95926,Butte,(530) 552-5652
+Durham Branch,Butte County Library,39.64898,-121.80951,2545 Durham Dayton Hwy,Durham,95938,Butte,(530) 552-5652
+Gridley Branch,Butte County Library,39.36669,-121.69109,299 Spruce Street,Gridley,95948,Butte,(530) 552-5652
+Paradise Branch,Butte County Library,39.75799,-121.60616,5922 Clark Road,Paradise,95969,Butte,(530) 552-5652
+Angels Camp Branch,Calaveras County Library,38.08614,-120.56645,426 N. Main Street,Angels Camp,95222,Calaveras,(209) 736-2198
+Arnold Branch,Calaveras County Library,38.25789,-120.34738,1065 Blagen Road,Arnold,95223,Calaveras,(209) 795-1009
+Calaveras County Library,Calaveras County Library,38.1897,-120.66319,1299 Gold Hunter Road,San Andreas,95249,Calaveras,(209) 754-6510
+Copperopolis Branch Library,Calaveras County Library,37.96976,-120.62597,Suite 106 Lake Tulloch Plaza,Copperopolis,95228,Calaveras,(209) 785-0920
+Mokelumne Hill Branch Library,Calaveras County Library,38.30159,-120.70567,8328 Main St.,Mokelumne Hill,95245,Calaveras,(209) 286-0507
+Murphys Branch,Calaveras County Library,38.13742,-120.45964,480 Park Lane,Murphys,95247,Calaveras,(209) 728-3036
+Valley Springs Branch,Calaveras County Library,38.19105,-120.83253,240 Pine St.,Valley Springs,95252,Calaveras,(209) 772-1318
+West Point Branch Library,Calaveras County Library,38.39866,-120.52643,54 Bald Mountain Road,West Point,95255,Calaveras,(209) 293-7020
+Arbuckle Branch,Colusa County Free Library,39.01534,-122.05831,610 King St.,Arbuckle,95912,Colusa,(530) 476-2526
+Colusa County Free Library,Colusa County Free Library,39.21504,-122.01097,738 Market St.,Colusa,95932,Colusa,(530) 458-7671
+Grimes Branch,Colusa County Free Library,39.07426,-121.89432,240 Main,Grimes,95950,Colusa,(530) 437-2428
+Maxwell Branch,Colusa County Free Library,39.27647,-122.19219,34 Oak St.,Maxwell,95955,Colusa,(530) 438-2250
+Princeton Branch,Colusa County Free Library,39.44839,-122.02692,232 Prince St.,Princeton,95970,Colusa,(530) 439-2235
+Stonyford Branch,Colusa County Free Library,39.36893,-122.54819,5080 Stonyford-Lodoga Rd,Stonyford,95979,Colusa,(530) 963-3722
+Williams Branch,Colusa County Free Library,39.15352,-122.15185,901 E St.,Williams,95987,Colusa,(530) 473-5955
+Cameron Park Branch,El Dorado County Library,38.65996,-121.00571,2500 Country Club Dr.,Cameron Park,95682,El Dorado,(530) 621-5500
+El Dorado County Library,El Dorado County Library,38.72892,-120.82769,345 Fair Lane,Placerville,95667,El Dorado,(530) 621-5540
+El Dorado Hills Library,El Dorado County Library,38.67204,-121.06459,7455 Silva Valley Parkway,El Dorado Hills,95762,El Dorado,(916) 358-3500
+Georgetown Library,El Dorado County Library,38.90634,-120.83762,6680 Orleans Street,Georgetown,95634,El Dorado,(530) 333-4724
+Pollock Pines Library,El Dorado County Library,38.75961,-120.58827,6210 Pony Express Trail,Pollock Pines,95726,El Dorado,(530) 644-2498
+South Lake Tahoe Library,El Dorado County Library,38.9445,-119.97356,1000 Rufus Allen Blvd.,South Lake Tahoe,96150,El Dorado,(530) 573-3185
+"Folsom Public Library, Georgia Murray Building",Folsom Public Library,38.68126,-121.16659,411 Stafford St,Folsom,95630,Sacramento,(916) 355-7374
+Lassen Library District,Lassen Library District,40.41487,-120.64943,1618 Main St.,Susanville,96130,Lassen,(530) 251-8127
+Twelve Bridges,Lincoln Public Library,38.84979,-121.29229,485 Twelve Bridges Drive,Lincoln,95648,Placer,(916) 434-2410
+Lodi Public Library,Lodi Public Library,38.13709,-121.27542,201 W. Locust Street,Lodi,95240,San Joaquin,(209) 333-5566
+Loomis Library & Community Learning Center,Loomis Library & Community Learning Center,38.82,-121.19055,6050 Library Dr.,Loomis,95650,Placer,(916) 824-2905
+Bear River Station,Nevada County Library,39.04688,-121.0748,11130 Magnolia Road,Grass Valley,95949,Nevada,(530) 271-4147
+Doris Foley Library For Historical Research,Nevada County Library,39.26375,-121.01897,211 N. Pine St.,Nevada City,95959,Nevada,(530) 265-4606
+Grass Valley Library-Royce Branch,Nevada County Library,39.2169,-121.06329,207 Mill Street,Grass Valley,95945,Nevada,(530) 273-4117
+Madelyn Helling County Library,Nevada County Library,39.26983,-121.0241,980 Helling Way,Nevada City,95959,Nevada,(530) 265-7050
+Penn Valley Station,Nevada County Library,39.22357,-121.20489,11336 Pleasant Valley Road,Penn Valley,95946,Nevada,(530) 432-5764
+Truckee Library,Nevada County Library,39.32564,-120.19985,10031 Levon Avenue,Truckee,96161,Nevada,(530) 582-7846
+Applegate Library,Placer County Library,38.99988,-120.99037,18018 Applegate Road,Applegate,95703,Placer,(530) 878-2721
+Auburn Library,Placer County Library,38.90517,-121.08074,350 Nevada St.,Auburn,95603,Placer,(530) 886-4501
+Colfax Library,Placer County Library,39.09932,-120.95415,10 W.Church St.,Colfax,95713,Placer,(530) 346-8211
+Foresthill Library,Placer County Library,39.02003,-120.81656,24580 Main St.,Foresthill,95631,Placer,(530) 367-2785
+Granite Bay Library,Placer County Library,38.74423,-121.18066,6475 Douglas Blvd,Granite Bay,95746,Placer,(916) 791-5590
+Kings Beach Library,Placer County Library,39.23866,-120.03016,301 Secline Street,Kings Beach,96143,Placer,(530) 546-2021
+Penryn Library,Placer County Library,38.85195,-121.16936,2215 Rippey Road,Penryn,95663,Placer,(916) 663-3621
+Rocklin Library,Placer County Library,38.78912,-121.22694,4890 Granite Drive,Rocklin,95677,Placer,(916) 624-3133
+Tahoe City Library,Placer County Library,39.17277,-120.13825,740 N. Lake Blvd.,Tahoe City,96145,Placer,(530) 583-3382
+Alleghany Station Library,Plumas County Library,39.46923,-120.84299,100 Hope Lane,Alleghany,95910,Sierra,(530) 287-3287
+Chester Branch Library,Plumas County Library,40.30937,-121.22711,222 First Ave.,Chester,96020,Plumas,(530) 258-2742
+Downieville Station Library,Plumas County Library,39.55932,-120.82784,318 Commercial St.,Downieville,95936,Sierra,(530) 289-3544
+Greenville Branch Library,Plumas County Library,40.14015,-120.95207,204 Ann St.,Greenville,95947,Plumas,(530) 284-7416
+Loyalton Station Library,Plumas County Library,39.67631,-120.24346,511 Main St.,Loyalton,96118,Sierra,(530) 993-1105
+Plumas County Library,Plumas County Library,39.93613,-120.94698,445 Jackson St.,Quincy,95971,Plumas,(530) 283-6310
+Portola Branch Library,Plumas County Library,39.80532,-120.46586,34 3Rd Ave.,Portola,96122,Plumas,(530) 832-4241
+Sierra City Station Library,Plumas County Library,39.56596,-120.63378,Hwy. 49,Sierra City,96125,Sierra,(530) 862-0210
+Maidu Library,Roseville Public Library,38.73553,-121.25311,1530 Maidu Drive,Roseville,95661,Placer,(916) 774-5221
+Martha Riley Community Library,Roseville Public Library,38.76751,-121.33203,1501 Pleasant Grove Blvd,Roseville,95747,Placer,(916) 774-5221
+Downtown Library,Roseville Public Library,38.74616,-121.28465,225 Taylor St.,Roseville,95678,Placer,(916) 774-5221
+Arcade Library,Sacramento Public Library,38.61861,-121.40409,2443 Marconi Ave.,Sacramento,95821,Sacramento,(916) 264-2700
+Arden-Dimick Library,Sacramento Public Library,38.58088,-121.3836,891 Watt Ave.,Sacramento,95864,Sacramento,(916) 264-2700
+Carmichael Library,Sacramento Public Library,38.61765,-121.33423,5605 Marconi Ave.,Carmichael,95608,Sacramento,(916) 264-2700
+Sacramento Central Library,Sacramento Public Library,38.58167,-121.49508,828 I Street,Sacramento,95814,Sacramento,(916) 264-2700
+Colonial Heights Library,Sacramento Public Library,38.53256,-121.44531,4799 Stockton Blvd.,Sacramento,95820,Sacramento,(916) 264-2700
+Belle Cooledge Library,Sacramento Public Library,38.52406,-121.51193,5600 South Land Park Dr.,Sacramento,95822,Sacramento,(916) 264-2700
+Courtland Library,Sacramento Public Library,38.33063,-121.56637,170 Primasing Ave,Courtland,95615,Sacramento,(916) 264-2700
+Del Paso Heights Library,Sacramento Public Library,38.63614,-121.44531,920 Grand Ave.,Sacramento,95838,Sacramento,(916) 264-2700
+Elk Grove Library,Sacramento Public Library,38.40874,-121.37118,8900 Elk Grove Blvd.,Elk Grove,95624,Sacramento,(916) 264-2700
+Fair Oaks Library,Sacramento Public Library,38.66258,-121.26313,11601 Fair Oaks Blvd.,Fair Oaks,95628,Sacramento,(916) 264-2700
+Franklin Library,Sacramento Public Library,38.39202,-121.43147,10055 Franklin High Road,Elk Grove,95757,Sacramento,(916) 264-2700
+Marian O. Lawrence (Galt) Library,Sacramento Public Library,38.25113,-121.29585,1000 Caroline Ave.,Galt,95632,Sacramento,(916) 264-2700
+Isleton Branch Library,Sacramento Public Library,38.16163,-121.60866,412 Union Street,Isleton,95641,Sacramento,(916) 264-2700
+Martin Luther King Jr. Library,Sacramento Public Library,38.49122,-121.48088,7340 - 24Th St. Bypass,Sacramento,95822,Sacramento,(916) 264-2700
+Ella K. Mcclatchy Library,Sacramento Public Library,38.56351,-121.48292,2112 22Nd St.,Sacramento,95818,Sacramento,(916) 264-2700
+Mckinley Library,Sacramento Public Library,38.57678,-121.4628,601 Alhambra Blvd.,Sacramento,95816,Sacramento,(916) 264-2700
+North Highlands-Antelope Library,Sacramento Public Library,38.70464,-121.36479,4235 Antelope Road,Antelope,95843,Sacramento,(916) 264-2700
+North Natomas Library,Sacramento Public Library,38.65746,-121.51799,4660 Via Ingoglia,Sacramento,95835,Sacramento,(916) 264-2700
+North Sacramento/Hagginwood Library,Sacramento Public Library,38.61009,-121.4514,2109 Del Paso Blvd.,Sacramento,95815,Sacramento,(916) 264-2700
+Orangevale Library,Sacramento Public Library,38.6778,-121.22966,"8820 Greenback Lane, #L",Orangevale,95662,Sacramento,(916) 264-2700
+Pocket-Greenhaven,Sacramento Public Library,38.4937,-121.5368,7335 Gloria Drive,Sacramento,95831,Sacramento,(916) 429-0926
+Rancho Cordova Library,Sacramento Public Library,38.57655,-121.3292,9845 Folsom Blvd.,Sacramento,95827,Sacramento,(916) 264-2700
+Rio Linda Library,Sacramento Public Library,38.68942,-121.45159,631 L Street,Rio Linda,95673,Sacramento,(916) 264-2700
+South Natomas Library,Sacramento Public Library,38.61892,-121.50009,2901 Truxel Road,Sacramento,95833,Sacramento,(916) 264-2700
+Southgate Library,Sacramento Public Library,38.49204,-121.4337,6132 66Th Ave.,Sacramento,95823,Sacramento,(916) 264-2700
+Sylvan Oaks Library,Sacramento Public Library,38.68664,-121.3075,6700 Auburn Blvd.,Citrus Heights,95621,Sacramento,(916) 264-2700
+Valley-Hi North Laguna Library,Sacramento Public Library,38.45237,-121.41735,7400 Imagination Parkway,Sacramento,95823,Sacramento,(916) 264-2700
+Walnut Grove Library,Sacramento Public Library,38.24078,-121.51402,14177 Market St.,Walnut Grove,95690,Sacramento,(916) 264-2700
+Barber Branch Library,Sutter County Library,39.28093,-121.66099,10321 Live Oak Blvd.,Live Oak,95953,Sutter,(530) 695-2021
+Sutter Branch Library,Sutter County Library,39.15904,-121.74872,2147 California St.,Sutter,95982,Sutter,(530) 755-0485
+Sutter County Library,Sutter County Library,39.13753,-121.62466,750 Forbes Ave.,Yuba City,95991,Sutter,(530) 822-7137
+Woodland Public Library,Woodland Public Library,38.67924,-121.77382,250 First St.,Woodland,95695,Yolo,(530) 661-5980
+A. F. Turner Community Library,Yolo County Library,38.58022,-121.52335,1212 Merkley Avenue,West Sacramento,95691,Yolo,(916) 375-6465
+Clarksburg Branch Library,Yolo County Library,38.41614,-121.52655,52915 Netherlands Ave.,Clarksburg,95612,Yolo,(916) 744-1755
+Mary L. Stephens Davis Branch Library,Yolo County Library,38.55685,-121.74706,315 E. 14Th St.,Davis,95616,Yolo,(530) 757-5593
+Esparto Regional Library,Yolo County Library,38.69249,-122.0163,17065 Yolo Ave.,Esparto,95627,Yolo,(530) 787-3426
+Knights Landing Branch Library,Yolo County Library,38.8003,-121.71792,42351 Third St.,Knights Landing,95645,Yolo,(530) 735-6593
+Winters Community Library,Yolo County Library,38.52565,-121.97153,708 Railroad Avenue,Winters,95694,Yolo,(530) 795-4955
+Yolo Branch Library,Yolo County Library,38.73321,-121.80744,37750 Sacramento St.,Yolo,95697,Yolo,(530) 662-2363
+Yuba County Library,Yuba County Library,39.13765,-121.58757,303 Second St.,Marysville,95901,Yuba,(530) 749-7380

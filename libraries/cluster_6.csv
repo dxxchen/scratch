@@ -1,0 +1,103 @@
+name,library_system,latitude,longitude,address,city,zip_code,county,phone
+Albany Library,Alameda County Library,37.88797,-122.29299,1247 Marin Avenue,Albany,94706,Alameda,(510) 526-3720
+Castro Valley Library,Alameda County Library,37.69298,-122.07105,3600 Norbridge Ave.,Castro Valley,94546,Alameda,(510) 667-7900
+Centerville Library,Alameda County Library,37.568,-122.02226,3801 Nicolet Ave.,Fremont,94536,Alameda,(510) 795-2629
+Cherryland Library,Alameda County Library,37.68415,-122.1121,278 Hampton Road,Hayward,94541,Alameda,(510) 626-8522
+Dublin Library,Alameda County Library,37.70278,-121.91895,200 Civic Plaza,Dublin,94568,Alameda,(925) 828-1315
+Fremont Main Library,Alameda County Library,37.55082,-121.97098,2400 Stevenson Blvd.,Fremont,94538,Alameda,(510) 745-1401
+Irvington Library,Alameda County Library,37.52198,-121.96477,41825 Greenpark Dr.,Fremont,94538,Alameda,(510) 795-2631
+Newark Library,Alameda County Library,37.53458,-122.03038,37055 Newark Blvd.,Newark,94560,Alameda,(510) 795-2627
+Niles Library,Alameda County Library,37.57603,-121.97813,150 I St.,Fremont,94536,Alameda,(510) 795-2626
+San Lorenzo Library,Alameda County Library,37.68106,-122.12595,395 Paseo Grande,San Lorenzo,94580,Alameda,(510) 670-6283
+Union City Library,Alameda County Library,37.58811,-122.02718,34007 Alvarado-Niles Rd.,Union City,94587,Alameda,(510) 745-1464
+Burlingame Main Library,Burlingame Public Library,37.57924,-122.34928,480 Primrose Road,Burlingame,94010,San Mateo,(650) 558-7474
+Easton Branch,Burlingame Public Library,37.58393,-122.37157,1800 Easton Drive,Burlingame,94010,San Mateo,(650) 340-6180
+Hayward Public Library,Hayward Public Library,37.67009,-122.08308,888 C St.,Hayward,94541,Alameda,(510) 293-8685
+Weekes Branch Library,Hayward Public Library,37.63339,-122.07893,27300 Patrick Ave.,Hayward,94544,Alameda,(510) 782-2155
+Civic Center Library,Livermore Public Library,37.67424,-121.75429,1188 S. Livermore Ave.,Livermore,94550,Alameda,(925) 373-5500
+Rincon Branch Library,Livermore Public Library,37.68651,-121.78488,725 Rincon Ave.,Livermore,94551,Alameda,(925) 373-5540
+Springtown Branch Library,Livermore Public Library,37.7069,-121.73738,998 Bluebell Dr.,Livermore,94551,Alameda,(925) 373-5517
+Los Gatos Public Library,Los Gatos Library,37.22017,-121.97828,100 Villa Avenue,Los Gatos,95030,Santa Clara,(408) 354-6891
+Belle Haven Branch,Menlo Park Public Library,37.47625,-122.16116,413 Ivy Dr.,Menlo Park,94025,San Mateo,(650) 330-2540
+Menlo Park Public Library,Menlo Park Public Library,37.45396,-122.17982,800 Alma St.,Menlo Park,94025,San Mateo,(650) 330-2500
+Mountain View Public Library,Mountain View Public Library,37.39033,-122.08363,585 Franklin St.,Mountain View,94041,Santa Clara,(650) 903-6335
+Palo Alto Children's Library,Palo Alto City Library,37.44479,-122.1452,1276 Harriet St.,Palo Alto,94301,Santa Clara,(650) 329-2436
+College Terrace Library,Palo Alto City Library,37.42336,-122.14866,2300 Wellesley St.,Palo Alto,94306,Santa Clara,(650) 329-2436
+Palo Alto Downtown Branch,Palo Alto City Library,37.44386,-122.15913,270 Forest Ave.,Palo Alto,94301,Santa Clara,(650) 329-2436
+Mitchell Park Branch,Palo Alto City Library,37.41805,-122.10771,4050 Middlefield Rd.,Palo Alto,94303,Santa Clara,(650) 329-2436
+Rinconada Library,Palo Alto City Library,37.44497,-122.13916,1213 Newell Rd.,Palo Alto,94303,Santa Clara,(650) 329-2436
+Pleasanton Public Library,Pleasanton Public Library,37.65753,-121.88063,400 Old Bernal Ave.,Pleasanton,94566,Alameda,(925) 931-3400
+Redwood City Public Library,Redwood City Public Library,37.4839,-122.22739,1044 Middlefield Road,Redwood City,94063,San Mateo,(650) 780-7061
+Redwood Shores Branch Library,Redwood City Public Library,37.53037,-122.25861,399 Marine Parkway,Redwood City,94065,San Mateo,(650) 780-5740
+Schaberg Branch Library,Redwood City Public Library,37.46649,-122.2431,2140 Euclid Ave.,Redwood City,94061,San Mateo,(650) 780-7010
+San Bruno Public Library,San Bruno Public Library,37.62521,-122.41492,701 Angus Ave. W.,San Bruno,94066,San Mateo,(650) 616-7078
+Almaden Branch Library,San Jose Public Library,37.2215,-121.86902,6445 Camden Ave,San Jose,95120,Santa Clara,(408) 808-3040
+Alviso Library,San Jose Public Library,37.42462,-121.96904,5050 N. 1St St.,San Jose,95002,Santa Clara,(408) 263-3626
+Bascom Library And Community Center,San Jose Public Library,37.30763,-121.9314,1000 South Bascom Ave,San Jose,95128,Santa Clara,(408) 808-3077
+Berryessa Library,San Jose Public Library,37.39394,-121.84074,3355 Noble Ave.,San Jose,95132,Santa Clara,(408) 808-3050
+Biblioteca Latinoamericana,San Jose Public Library,37.32235,-121.88036,921 S. 1St St.,San Jose,95110,Santa Clara,(408) 294-1237
+Calabazas Branch Library,San Jose Public Library,37.30262,-122.02345,1230 S Blaney Ave,San Jose,95129,Santa Clara,(408) 808-3066
+Cambrian Library,San Jose Public Library,37.26441,-121.91504,1780 Hillsdale Ave.,San Jose,95124,Santa Clara,(408) 808-3080
+Dr. Roberto Cruz Alum Rock Branch Library,San Jose Public Library,37.36539,-121.82806,3090 Alum Rock Ave,San Jose,95127,Santa Clara,(408) 808-3090
+East San Jose Carnegie Library,San Jose Public Library,37.34647,-121.86822,1102 E. Santa Clara St.,San Jose,95116,Santa Clara,(408) 808-3075
+Edenvale Branch Library,San Jose Public Library,37.26771,-121.82112,101 Branham Lane East,San Jose,95111,Santa Clara,(408) 808-3036
+Educational Park Branch Library,San Jose Public Library,37.36565,-121.85777,1772 Educational Park Dr,San Jose,95133,Santa Clara,(408) 808-3073
+Evergreen Branch Library,San Jose Public Library,37.3138,-121.79585,2635 Aborn Rd.,San Jose,95121,Santa Clara,(408) 808-3060
+Hillview Library,San Jose Public Library,37.33786,-121.83108,1600 Hopkins Dr.,San Jose,95122,Santa Clara,(408) 808-3033
+Joyce Ellington Branch Library,San Jose Public Library,37.34984,-121.88695,491 E Empire St,San Jose,95112,Santa Clara,(408) 808-3043
+"Dr. Martin Luther King, Jr. Library",San Jose Public Library,37.33569,-121.88526,150 E San Fernando Street,San Jose,95112,Santa Clara,(408) 808-2000
+Mt. Pleasant Neighborhood Library,San Jose Public Library,37.35244,-121.80076,3411 Rocky Mountain Dr.,San Jose,95127,Santa Clara,(408) 808-3088
+Pearl Avenue Library,San Jose Public Library,37.26789,-121.86631,4270 Pearl Avenue,San Jose,95136,Santa Clara,(408) 808-3053
+Rose Garden Library,San Jose Public Library,37.33189,-121.92627,1580 Naglee Ave.,San Jose,95126,Santa Clara,(408) 808-3070
+Santa Teresa Library,San Jose Public Library,37.2375,-121.79976,290 International Cir.,San Jose,95119,Santa Clara,(408) 808-3068
+Seven Trees Branch Library,San Jose Public Library,37.28497,-121.83326,3590 Cas Dr,San Jose,95111,Santa Clara,(408) 808-3056
+Tully Community Branch Library,San Jose Public Library,37.31142,-121.84092,880 Tully Rd,San Jose,95111,Santa Clara,(408) 808-3030
+Village Square Branch Library,San Jose Public Library,37.31341,-121.77448,4001 Evergreen Village Square,San Jose,95135,Santa Clara,(408) 808-3093
+Vineland Branch Library,San Jose Public Library,37.24018,-121.89249,1450 Blossom Hill Rd,San Jose,95118,Santa Clara,(408) 808-3000
+West Valley Library,San Jose Public Library,37.30237,-121.97939,1243 San Tomas Aquino Rd.,San Jose,95117,Santa Clara,(408) 244-4747
+Willow Glen Branch Library,San Jose Public Library,37.30294,-121.90006,1157 Minnesota Ave.,San Jose,95125,Santa Clara,(408) 808-3045
+Manor Branch Library,San Leandro Public Library,37.69147,-122.15265,1241 Manor Blvd,San Leandro,94579,Alameda,(510) 577-7970
+Mulford-Marina Branch Library,San Leandro Public Library,37.69785,-122.1823,13699 Aurora Dr.,San Leandro,94577,Alameda,(510) 577-7976
+San Leandro Public Main Library,San Leandro Public Library,37.72605,-122.15394,300 Estudillo Ave.,San Leandro,94577,Alameda,(510) 577-3970
+South Branch Library,San Leandro Public Library,37.7087,-122.134,14799 E. 14Th St.,San Leandro,94578,Alameda,(510) 577-7980
+Atherton Library,San Mateo County Libraries,37.46319,-122.19693,2 Dinkelspiel Station Lane,Atherton,94027,San Mateo,(833) 937-7625
+Belmont Library,San Mateo County Libraries,37.50882,-122.29318,1110 Alameda De Las Pulgas,Belmont,94002,San Mateo,(833) 937-7625
+Brisbane Library,San Mateo County Libraries,37.68281,-122.40377,163 Visitacion Ave.,Brisbane,94005,San Mateo,(833) 937-7625
+East Palo Alto Library,San Mateo County Libraries,37.47235,-122.13992,2415 University Ave.,East Palo Alto,94303,San Mateo,(833) 937-7625
+Foster City Library,San Mateo County Libraries,37.55867,-122.27073,1000 E. Hillsdale Blvd.,Foster City,94404,San Mateo,(833) 937-7625
+Half Moon Bay Library,San Mateo County Libraries,37.46486,-122.43283,225 Cabrillo Highway South #104B,Half Moon Bay,94019,San Mateo,(833) 937-7625
+Millbrae Library,San Mateo County Libraries,37.60231,-122.39695,1 Library Ave.,Millbrae,94030,San Mateo,(833) 937-7625
+North Fair Oaks Library,San Mateo County Libraries,37.47733,-122.21424,2510 Middlefield Rd,Redwood City,94063,San Mateo,(833) 937-7625
+Pacifica Library,San Mateo County Libraries,37.63217,-122.49193,104 Hilton Way,Pacifica,94044,San Mateo,(833) 937-7625
+Portola Valley Library,San Mateo County Libraries,37.38195,-122.22998,765 Portola Road,Portola Valley,94028,San Mateo,(833) 937-7625
+San Carlos Library,San Mateo County Libraries,37.50367,-122.26243,610 Elm St.,San Carlos,94070,San Mateo,(833) 937-7625
+Sanchez Library,San Mateo County Libraries,37.58445,-122.47635,1111 Terra Nova Blvd.,Pacifica,94044,San Mateo,(833) 937-7625
+Woodside Library,San Mateo County Libraries,37.42919,-122.25808,3140 Woodside Rd.,Woodside,94062,San Mateo,(833) 937-7625
+Hillsdale Branch Library,San Mateo Public Library,37.53343,-122.30468,205 W. Hillsdale Blvd.,San Mateo,94403,San Mateo,(650) 522-7880
+Marina Branch Library,San Mateo Public Library,37.55641,-122.29308,1530 Susan Court,San Mateo,94403,San Mateo,(650) 522-7890
+San Mateo Public Library,San Mateo Public Library,37.56197,-122.32674,55 West Third Ave.,San Mateo,94402,San Mateo,(650) 522-7800
+Mission Library Family Reading Center,Santa Clara City Library,37.34728,-121.94487,1098 Lexington Street,Santa Clara,95050,Santa Clara,(408) 615-2964
+Northside Branch Library,Santa Clara City Library,37.39569,-121.94687,695 Moreland Way,Santa Clara,95054,Santa Clara,(408) 615-5500
+Santa Clara City Library - Central Park Library,Santa Clara City Library,37.34053,-121.97357,2635 Homestead Road,Santa Clara,95051,Santa Clara,(408) 615-2930
+Campbell Library,Santa Clara County Library,37.28824,-121.94327,1 West Campbell Ave. Room E46,Campbell,95008,Santa Clara,(408) 866-1991
+Cupertino Library,Santa Clara County Library,37.31779,-122.02896,10800 Torre Ave.,Cupertino,95014,Santa Clara,(408) 446-1677
+Gilroy Library,Santa Clara County Library,37.00505,-121.57281,350 W 6Th Street,Gilroy,95020,Santa Clara,(408) 842-8208
+Los Altos Library,Santa Clara County Library,37.38088,-122.1133,13 S. San Antonio Rd.,Los Altos,94022,Santa Clara,(650) 948-7683
+Milpitas Library,Santa Clara County Library,37.43245,-121.90651,160 N Main St,Milpitas,95035,Santa Clara,(408) 262-1171
+Morgan Hill Library,Santa Clara County Library,37.12414,-121.6628,660 W. Main,Morgan Hill,95037,Santa Clara,(408) 779-3196
+Saratoga Library,Santa Clara County Library,37.27012,-122.01511,13650 Saratoga Ave.,Saratoga,95070,Santa Clara,(408) 867-6126
+Woodland Library,Santa Clara County Library,37.34427,-122.07544,1975 Grant Rd.,Los Altos,94024,Santa Clara,(650) 969-6030
+Aptos Branch Library,Santa Cruz Public Libraries,36.98106,-121.90883,7695 Soquel Dr.,Aptos,95003,Santa Cruz,(831) 427-7722
+Boulder Creek Branch Library,Santa Cruz Public Libraries,37.12751,-122.12384,13390 W. Park Ave.,Boulder Creek,95006,Santa Cruz,(831) 427-7723
+Branciforte Branch Library,Santa Cruz Public Libraries,36.97924,-122.00742,230 Gault St.,Santa Cruz,95062,Santa Cruz,(831) 427-7724
+Capitola Branch Library,Santa Cruz Public Libraries,36.97872,-121.96067,2005 Wharf Rd,Capitola,95010,Santa Cruz,(831) 427-7725
+Central Branch Library,Santa Cruz Public Libraries,36.97458,-122.02861,224 Church St.,Santa Cruz,95060,Santa Cruz,(831) 427-7701
+Felton Branch Library,Santa Cruz Public Libraries,37.05294,-122.07431,6299 Gushee St.,Felton,95018,Santa Cruz,(831) 427-7728
+Garfield Park Branch Library,Santa Cruz Public Libraries,36.95804,-122.03835,705 Woodrow Ave.,Santa Cruz,95060,Santa Cruz,(831) 427-7729
+La Selva Beach Branch Library,Santa Cruz Public Libraries,36.93762,-121.86342,314 Estrella,La Selva Beach,95076,Santa Cruz,(831) 427-7710
+Live Oak Branch Library,Santa Cruz Public Libraries,36.96277,-121.98046,2380 Portola Dr.,Santa Cruz,95062,Santa Cruz,(831) 427-7718
+Scotts Valley Branch Library,Santa Cruz Public Libraries,37.04962,-122.02856,251 Kings Village Road,Scotts Valley,95066,Santa Cruz,(831) 427-7719
+Community Learning Center,South San Francisco Public Library,37.65833,-122.41675,520 Tamarack Lane,South San Francisco,94080,San Mateo,(650) 877-8540
+Grand Avenue Library,South San Francisco Public Library,37.65639,-122.41394,306 Walnut Ave.,South San Francisco,94080,San Mateo,(650) 877-8530
+South San Francisco Main Library,South San Francisco Public Library,37.65251,-122.43677,840 W. Orange Ave.,South San Francisco,94080,San Mateo,(650) 829-3860
+Sunnyvale Public Library,Sunnyvale Public Library,37.37164,-122.0392,665 W. Olive Ave.,Sunnyvale,94086,Santa Clara,(408) 730-7314
