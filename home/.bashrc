@@ -99,3 +99,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+pushd ~/bin/ > /dev/null
+. bash-init
+popd > /dev/null
