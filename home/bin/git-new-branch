@@ -1,0 +1,18 @@
+#!/bin/bash
+#
+# git-new-branch
+#
+# Usage:
+#   git new-branch <branchname>
+#
+# Description:
+#   Creates a new branch off of the current branch, storing a local repository
+#   config value indicating which branch the new branch came from.
+
+if [[ ! "$1" ]]; then
+  echo "Branch name required."
+fi
+
+sourcebranch=`git symbolic-ref -q --short HEAD`
+git checkout -b "$1"
+git config --local "branch.${1}.sourcebranch" "$sourcebranch"

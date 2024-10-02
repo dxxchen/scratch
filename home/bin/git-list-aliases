@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# git-list-aliases
+#
+# Usage:
+#   git list-aliases
+#
+# Description:
+#   Lists all custom aliases defined for git.
+
+git config -l | grep '^alias\.' | cut -c 7-

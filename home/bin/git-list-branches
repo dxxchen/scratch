@@ -1,0 +1,60 @@
+#!/bin/bash
+#
+# git-list-branches
+#
+# Usage:
+#   git list-branches [--color]
+#
+# Description:
+#   Lists all branches along with their branch description, sorted as follows:
+#
+#   active
+#   hold/
+#   done/
+#
+#   The branch description can be created or edited with:
+#
+#   git branch-description
+#
+#   If --color is specified, lists the current branch in green, active branches
+#   in yellow, and on-hold and done branches in gray.
+
+active_lines=''
+hold_lines=''
+done_lines=''
+
+while IFS= read -r line; do
+  branch="${line/[\* ] /}"
+  if [[ "${branch}" =~ ^hold/.* ]]; then
+    hold_lines="${hold_lines}${line}"$'\n'
+  elif [[ "${branch}" =~ ^done/.* ]]; then
+    done_lines="${done_lines}${line}"$'\n'
+  else
+    active_lines="${active_lines}${line}"$'\n'
+  fi
+done < <(git branch)
+
+while IFS= read -r line; do
+  if [[ -z $line ]]; then
+    continue
+  fi
+
+  branch="${line/[\* ] /}"
+  if [[ "$1" == "--color" ]]; then
+    if [[ $line =~ ^\*\  ]]; then
+      line="* \e[1;32m${branch}\e[0;00m"
+    elif [[ "${branch}" =~ ^hold/.* ]]; then
+      line="\e[0;37m${line}\e[0;00m"
+    elif [[ "${branch}" =~ ^done/.* ]]; then
+      line="\e[0;37m${line}\e[0;00m"
+    else
+      line="\e[0;33m${line}\e[0;00m"
+    fi
+  fi
+  description="$(git config branch.${branch}.description)"
+  if [[ -z "${description}" ]]; then
+    echo -e "${line}"
+  else
+    echo -e "${line} : $(git config branch.${branch}.description)"
+  fi
+done <<< "${active_lines}${hold_lines}${done_lines}"

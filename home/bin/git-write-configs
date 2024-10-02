@@ -1,0 +1,62 @@
+#!/bin/bash
+#
+# git-write-configs
+#
+# Usage:
+#   git write-configs
+#
+# Description:
+#   Writes user-specific git configs. This needs only be run once but can also
+#   be added to your .bashrc.
+
+## user.*
+
+git config --global user.email    'dxchen@google.com'
+git config --global user.name     dxchen
+
+## color.*
+
+git config --global color.ui      true
+
+## alias.*
+
+# Built-in commands.
+git config --global alias.b       branch
+git config --global alias.ch      checkout
+git config --global alias.co      'commit -a -m'
+git config --global alias.d       'diff --color'
+git config --global alias.ls      'log --pretty=format:"%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn]" --decorate'
+git config --global alias.ll      'log --pretty=format:"%C(yellow)%h%Cred%d\ %Creset%s%Cblue\ [%cn]" --decorate --numstat'
+git config --global alias.mt      'mergetool --tool=meld'
+
+# Git5 commands.
+git config --global alias.diff5   '!git5 diff --color'
+git config --global alias.d5      '!git5 diff --color'
+git config --global alias.drop    '!git5 drop'
+git config --global alias.dr      '!git5 drop'
+git config --global alias.export  '!git5 export'
+git config --global alias.e       '!git5 export'
+git config --global alias.lint    '!git5 lint'
+git config --global alias.li      '!git5 lint'
+git config --global alias.mail    '!git5 mail --no-body -m'
+git config --global alias.ma      '!git5 mail --no-body -m'
+git config --global alias.merge5  '!git5 merge'
+git config --global alias.me      '!git5 merge'
+git config --global alias.submit  '!git5 submit'
+git config --global alias.su      '!git5 submit'
+git config --global alias.sync    '!git5 sync'
+git config --global alias.sy      '!git5 sync'
+
+# Custom script commands.
+git config --global alias.ebd     edit-branch-description
+git config --global alias.la      list-aliases
+git config --global alias.lb      'list-branches --color'
+git config --global alias.lbat    'list-branches-as-tree --color'
+git config --global alias.nb      new-branch
+
+# Custom in-line commands.
+git config --global alias.done    '!f() { git branch | cut -c 3- | grep -v "^done/" | grep "$1" | xargs -I{} git branch -m {} done/{}; }; f'
+git config --global alias.undone  '!f() { git branch | cut -c 3- | grep "^done/" | grep "$1" | sed "s/^done\/\(.*\)/ & \1/" | xargs -L1 git branch -m; }; f'
+
+git config --global alias.hold    '!f() { git branch | cut -c 3- | grep -v "^hold/" | grep "$1" | xargs -I{} git branch -m {} hold/{}; }; f'
+git config --global alias.unhold  '!f() { git branch | cut -c 3- | grep "^hold/" | grep "$1" | sed "s/^hold\/\(.*\)/ & \1/" | xargs -L1 git branch -m; }; f'

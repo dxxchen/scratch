@@ -1,0 +1,48 @@
+#!/bin/bash
+#
+# bash-init-common
+#
+# Usage:
+#   . bash-init-common
+#
+# Description:
+#   Initializes Bash with common environment variables, aliases, and functions.
+
+## Aliases
+
+# Local binary aliases.
+alias s='sublime '
+
+# Remote binary aliases.
+alias g5='/google/data/ro/projects/shelltoys/g5.sar'
+alias gtags='/home/build/nonconf/google3/tools/tags/gtags.sh --lang=java '
+alias menu='/home/shine/share/menu/menu.par --max_terminal_width=0'
+
+# Local function aliases.
+alias title='set-title '
+alias up='go-up '; complete -F _go-up up
+
+## Functions
+
+# go-up
+#
+# Usage:
+#   go-up <dirname>
+#
+# Description:
+#   Changes the directory to the ancestor of the current directory with the
+#   specified <dirname>. This command support auto-completion.
+go-up() {
+  if [[ "$1" ]]; then
+    dirname="$1"
+    cd "${PWD/\/$dirname\/*//$dirname}"
+  fi
+}
+
+_go-up() {
+  chars=${COMP_WORDS[COMP_CWORD]}
+  dirnames=${PWD//\//\ }
+  COMPREPLY=( $( compgen -W "$dirnames" -- $chars ) )
+}
+
+complete -F _go-up go-up

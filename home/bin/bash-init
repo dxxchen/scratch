@@ -1,0 +1,19 @@
+#!/bin/bash
+#
+# bash-init
+#
+# Usage:
+#   . bash-init
+#
+# Description:
+#   Sources all bash-init-* scripts in this directory. This should be included
+#   in your .bashrc:
+#
+#   pushd /bash/init/path/
+#   . bash-init
+#   popd
+#
+#   where /bash/init/path/ is the path to the directory containing your
+#   bash-init script.
+
+. bash-init-common

@@ -1,0 +1,18 @@
+#!/bin/bash
+#
+# git-edit-branch-description
+#
+# Usage:
+#   git edit-branch-description [<branchname>]
+#
+# Description:
+#   Edits a branch description. When called without a <branchname> argument,
+#   edits the branch description for the current branch. When called with the
+#   <branchname> argument, edits the branch description for the branch with the
+#   specified <branchname>.
+
+if [[ "$1" ]]; then
+  git branch "$1" --edit-description
+else
+  git branch --edit-description
+fi

@@ -1,0 +1,116 @@
+#!/usr/bin/python
+#
+# git-list-branches-as-tree
+#
+# Usage:
+#   git list-branches-as-tree [--color]
+#
+# Description:
+#   Lists all branches ordered as a tree, with optional branch descriptions:
+#
+#   main
+#     foo
+#        bar : This is the bar branch.
+#     baz
+#   hold/
+#   done/
+#
+#   For branches to be properly rendered in a tree, you must use git new-branch
+#   instead of git checkout -b. Currently, renaming a branch will cause child
+#   branches to lose their parent.
+#
+#   The branch description can be created or edited with:
+#
+#   git branch-description
+#
+#   If --color is specified, lists the current branch in green, active branches
+#   in yellow, and on-hold and done branches in gray.
+
+import argparse
+import re
+import subprocess
+
+selected_branch = ''
+
+active_branches = {}
+hold_branches = []
+done_branches = []
+
+def get_branch_line(branch, indent):
+  if branch == selected_branch:
+    output = '* '
+  else:
+    output = '  '
+  output = output + '  ' * (indent) + args.format(branch)
+
+  git_get_description = subprocess.Popen(
+      ['git', 'config', '--local', 'branch.%s.description' % branch],
+      stdout=subprocess.PIPE)
+  line = git_get_description.stdout.readline()
+  if line != '':
+    output = '%s : %s' % (output, line.strip())
+
+  return output
+
+def print_tree(cur_branch, depth):
+  print get_branch_line(cur_branch, depth)
+  for branch in sorted(active_branches[cur_branch]):
+    print_tree(branch, depth + 1)
+
+def color(branch):
+  if branch == selected_branch:
+    startescape = '\033[1;32m'
+  elif branch in active_branches:
+    startescape = '\033[0;33m'
+  else:
+    startescape = '\033[0;37m'
+  return '%s%s\033[0m' % (startescape, branch)
+
+def nocolor(branch):
+  return branch
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--color', dest='format', action='store_const',
+                    const=color, default=nocolor)
+args = parser.parse_args()
+
+git_branch = subprocess.Popen(['git', 'branch'], stdout=subprocess.PIPE)
+pattern = re.compile('^[\* ] ')
+for line in git_branch.stdout:
+  branch = pattern.sub('', line).strip()
+  if line.startswith('* '):
+    selected_branch = branch
+  if (branch.startswith('hold/')):
+    hold_branches.append(branch)
+  elif (branch.startswith('done/')):
+    done_branches.append(branch)
+  else:
+    active_branches[branch] = []
+
+branch_root = []
+
+for branch in active_branches:
+  git_source_branch = subprocess.Popen(
+      ['git', 'config', '--local', 'branch.%s.sourcebranch' % branch],
+      stdout=subprocess.PIPE)
+  line = git_source_branch.stdout.readline()
+  if line == '':
+    branch_root.append(branch)
+  else:
+    source_branch = line.strip()
+
+    # Put the current branch under the source branch if it exists and is active,
+    # the 'main' branch if the 'main' branch exists and is active, and finally,
+    # the root branch otherwise.
+    if source_branch in active_branches:
+      active_branches[source_branch].append(branch)
+    elif 'main' in active_branches:
+      active_branches['main'].append(branch)
+    else:
+      branch_root.append(branch)
+
+for branch in sorted(branch_root):
+  print_tree(branch, 0)
+
+for branch in hold_branches + done_branches:
+  print get_branch_line(branch, 0)
