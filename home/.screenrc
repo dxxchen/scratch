@@ -1,0 +1,30 @@
+# Set '`' as the escape key; press '`~' to type '`'.
+escape `~
+
+# Press F11 to switch the escape key to Ctrl+O; press F12 to switch back.
+bindkey -d -k F1    escape ^O^O
+bindkey -d -k F2    escape ``
+
+# for shift UP and DOWN arrows
+bindkey ^[[1;5A prev
+bindkey ^[[1;5B next
+
+# for ctrl right and left arrows
+# bindkey ^[[1;5D prev
+# bindkey ^[[1;5C next
+
+ # for shift right and left arrows
+bindkey ^[[1;2D prev
+bindkey ^[[1;2C next
+
+# Make window 1 the default.
+bind c screen 1
+bind ^c screen 1
+bind 0 select 10
+screen 1
+
+# Hide welcome message.
+startup_message off
+
+# Show a caption at the bottom of the screen.
+hardstatus alwayslastline '%{= g}[ %{G}%H %{g}][%= %{= w}%?%-Lw%?%{= R}%n*%f %t%?%{= R}(%u)%?%{= w}%+Lw%?%= %{= g}][ %{y}Load: %l %{g}][ %{B}%Y-%m-%d %{W}%c:%s %{g}]'
